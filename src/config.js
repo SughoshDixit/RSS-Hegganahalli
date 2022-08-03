@@ -12,7 +12,7 @@ export const config = {
   // and fill the client ID & secret
   enableOAuth: true,
   OAuthClientID: 'Iv1.667b7164fab3d259',
-  OAuthSecret: '0b751ff4d10b65614e984c8cb58e15cceca812d5',
+  OAuthSecret: 'e2a85d587b0d9d60437d0c3790ec32aff5b5e4e9',
 
   // Your Personal Blog Title
   title : "ರಾಷ್ಟ್ರೀಯ ಸ್ವಯಂ ಸೇವಕ ಸಂಘ ಹೆಗ್ಗನಹಳ್ಳಿ" ,
