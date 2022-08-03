@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RSS_Hegganahalli/static/css/main.1e18207e.chunk.css",
+    "main.js": "/RSS_Hegganahalli/static/js/main.831963eb.chunk.js",
+    "main.js.map": "/RSS_Hegganahalli/static/js/main.831963eb.chunk.js.map",
+    "runtime-main.js": "/RSS_Hegganahalli/static/js/runtime-main.4520554b.js",
+    "runtime-main.js.map": "/RSS_Hegganahalli/static/js/runtime-main.4520554b.js.map",
+    "static/js/2.2972f6bd.chunk.js": "/RSS_Hegganahalli/static/js/2.2972f6bd.chunk.js",
+    "static/js/2.2972f6bd.chunk.js.map": "/RSS_Hegganahalli/static/js/2.2972f6bd.chunk.js.map",
+    "index.html": "/RSS_Hegganahalli/index.html",
+    "precache-manifest.bf815e4dce6776b310befdc83eaa9117.js": "/RSS_Hegganahalli/precache-manifest.bf815e4dce6776b310befdc83eaa9117.js",
+    "service-worker.js": "/RSS_Hegganahalli/service-worker.js",
+    "static/css/main.1e18207e.chunk.css.map": "/RSS_Hegganahalli/static/css/main.1e18207e.chunk.css.map",
+    "static/js/2.2972f6bd.chunk.js.LICENSE": "/RSS_Hegganahalli/static/js/2.2972f6bd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4520554b.js",
+    "static/js/2.2972f6bd.chunk.js",
+    "static/css/main.1e18207e.chunk.css",
+    "static/js/main.831963eb.chunk.js"
+  ]
+}
