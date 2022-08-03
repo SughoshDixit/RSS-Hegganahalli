@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RSS_Hegganahalli/precache-manifest.bf815e4dce6776b310befdc83eaa9117.js"
+  "/RSS_Hegganahalli/precache-manifest.abbd90ee170455969e9ce7abf6ff55cd.js"
 );
 
 self.addEventListener('message', (event) => {
